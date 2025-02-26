@@ -1,5 +1,7 @@
 ## RUNNING THE PROJECT
 
+Java project
+
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * Java Latest
 
