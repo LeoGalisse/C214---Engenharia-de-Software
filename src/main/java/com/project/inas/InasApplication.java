@@ -10,7 +10,7 @@ public class InasApplication {
 	private static Logger logger = LoggerFactory.getLogger(InasApplication.class);
 
 	public static void main(String[] args) {
-		logger.info("Iniciando a API");
+		logger.info("API está sendo iniciada");
 		SpringApplication.run(InasApplication.class, args);
 		System.out.println("Hello, World!");
 		logger.info("API iniciada");
